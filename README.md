@@ -1,17 +1,15 @@
-### ant design 2.x
+### web unique
 
-ant design 2.x 里的 landing page. 
-
-脚手架使用的是： [antd-init](https://github.com/ant-design/antd-init);
+web unique
 
 ## preview
 
-https://ant-motion.github.io/ant-design-2.x-landing-page/
-
+https://b3hr4d.github.io/webuniq/
 
 ## install
+
 ```
-$ npm i 
+$ npm i
 ```
 
 ## Development

@@ -1,5 +1,5 @@
 {
-  "homepage": "http://b3hr4d.github.io/smart-world",
+  "homepage": "http://b3hr4d.github.io/webuniq",
   "name": "webuniq",
   "private": true,
   "entry": {
@@ -46,8 +46,6 @@
     "eslint-fix": "eslint --fix src/ --ext .js,.jsx",
     "start": "dora --plugins webpack",
     "test": "atool-test-mocha ./**/__tests__/*-test.js",
-    "deploy": "rm -rf dist && npm run build && node ./deploy.js",
-    "predeploy": "npm run build",
-    "ghdeploy": "gh-pages -d build"
+    "deploy": "rm -rf dist && npm run build && node ./deploy.js"
   }
 }
